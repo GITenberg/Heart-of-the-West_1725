@@ -1,0 +1,34 @@
+_repo: Heart-of-the-West_1725
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Henry, O.
+    alias: Porter, William Sidney
+    birthdate: 1862
+    deathdate: 1910
+    gutenberg_agent_id: '634'
+    url: http://www.gutenberg.org/2009/agents/634
+    wikipedia: http://en.wikipedia.org/wiki/O._Henry
+description: ''
+gutenberg_issued: '2004-07-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1725'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'American fiction -- 20th century'
+- !lcc 'PS'
+- !lcsh 'West (U.S.) -- Social life and customs -- Fiction'
+- !lcsh 'Short stories, American'
+- GITenberg
+tableOfContents: Hearts and crosses -- The ransom of Mack -- Telemachus, friend --
+  The handbook of Hymen -- The pimienta pancakes -- Seats of the haughty -- Hygeia
+  at the Solito -- An afternoon miracle -- The higher abdication -- Cupid a la carte
+  -- The caballero's way -- The sphinx apple -- The missing chord -- A call loan --
+  The princess and the puma -- The Indian summer of Dry Valley Johnson -- Christmas
+  by injunction -- A chaparral prince -- The reformation of Calliope.
+title: Heart of the West
+url: http://www.gutenberg.org/ebooks/1725
